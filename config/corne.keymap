@@ -68,7 +68,7 @@
 
         adjust_layer {
             bindings = <
-&qsoft_off  &kp F10     &kp F11     &kp F7  &kp F8  &kp F9    &tog 6            &none  &none   &kp K_VOLUME_DOWN  &kp K_VOLUME_UP   &bt BT_CLR_ALL
+&soft_off  &kp F10     &kp F11     &kp F7  &kp F8  &kp F9    &tog 6            &none  &none   &kp K_VOLUME_DOWN  &kp K_VOLUME_UP   &bt BT_CLR_ALL
 &trans     &kp F12     &tog 4      &kp F4  &kp F5  &kp F6    &none             &none  &none   &none              &kp K_PLAY_PAUSE  &bt BT_CLR
 &trans     &bt BT_PRV  &bt BT_NXT  &kp F1  &kp F2  &kp F3    &kp LC(LEFT_ALT)  &none  &none   &none              &none             &trans
                                    &trans  &none   &trans    &trans            &none  &trans
